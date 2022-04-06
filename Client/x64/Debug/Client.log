@@ -1,0 +1,3 @@
+﻿  MinChatClient.cpp
+C:\Users\Wilfred\Desktop\SIT\SPRING 2022\Computer Network\assignment\assignment 2\FINAL FINAL FINAL\Assignment Chat\Client\MinChatClient.cpp(154,16): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\Wilfred\Desktop\SIT\SPRING 2022\Computer Network\assignment\assignment 2\FINAL FINAL FINAL\Assignment Chat\Client\x64\Debug\Client.exe
